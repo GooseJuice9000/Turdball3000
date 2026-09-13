@@ -1,0 +1,11 @@
+type: itemTurret
+name: Poop Slinger
+reload: 15
+range: 480
+maxAmmo: 40
+size: 3
+category: Turret
+velocityRnd: 0.2
+inaccuracy: 3
+ammoTypes: {
+  
